@@ -13,6 +13,7 @@ function SearchPage({ params: { term } }: Props) {
 
   // API call to get the Searched Movies
   // API call to get the Popular Moveis
+  
   return <div>Welcome to the search page: {termToUse}</div>;
 }
 
